@@ -1,0 +1,12 @@
+*.o
+*.out
+*.gba
+*.elf
+*.bin
+*.sav
+*.bat
+
+*.log
+*.tmp
+
+GBAServer.jar
